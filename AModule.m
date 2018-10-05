@@ -9,5 +9,7 @@
 #import "AModule.h"
 
 @implementation AModule
-
+void func{
+    
+}
 @end
